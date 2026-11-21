@@ -1,0 +1,5 @@
+# SHA-256 for all 3 files in public Zenodo record 24411018
+# ZIP is frozen Git source tag archive, PDF and certificate are on tag
+c1ecea8bade46bf8fbfc508f0c346b418bd93afbf88d0c776a1ed2feec8de137  POLYBRUTUS_D30_SOURCE_v0.1.0_GITHUB_TAG.zip
+cf7fed41dd4ea6baed4400ddf6954c949b3009958252c51fe6538f736bff15fc  publication/POLYBRUTUS_30D_NOTE.pdf
+96c2f0693d849b2bab83c7ef4b25f647ecd3ee3a3ae460d3a32c5e9a73f1fb1c  results/certificate_d30.json

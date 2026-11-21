@@ -24,6 +24,15 @@ python tests/independent_d30.py
 
 Both scripts print the same SHA-256 for the deterministic `results/certificate_d30.json`. The **entire frozen D29 scientific tag**, including ancestor evidence, is archived under `prior/d29/` as ordinary files, without nested Git metadata.
 
+## Official Zenodo DOI and reproducibility evidence
+
+- **Official DOI:** [10.5281/zenodo.24411018](https://doi.org/10.5281/zenodo.24411018).
+- **Public Zenodo record:** https://zenodo.org/records/24411018 ; 3/3 files independently checked through the public Zenodo API for exact lengths and MD5.
+- **Frozen scientific source tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d30/tree/v0.1.0) at commit `3c7ce4019a49ff4c54adb9271367aff5c62c1326`.
+- **Tag CI:** [GitHub Actions run 44863867174](https://github.com/Topbrutus/polybrutus-d30/actions/runs/44863867174), success.
+- **Permanent checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D30_PUBLICATION_2026-11-20.md .
+- **Publication program index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Source and proof
 
 - [Mathematical specification](SPECIFICATION_D30.md), [proof](PREUVE_D30.md), and [provenance](PROVENANCE.md).
